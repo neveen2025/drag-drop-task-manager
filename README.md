@@ -15,6 +15,7 @@ A simple web application that allows users to add, move, and delete tasks using 
 
 ## Live Demo
 https://neveen2025.github.io/drag-drop-task-manager/
+
 ##Project Screenshot
 [📸 View Project Screenshot](Drag%26Drop%20Task%20Manager.jpeg)
 ## Author
